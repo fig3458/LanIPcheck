@@ -1,0 +1,15 @@
+bin/
+dist/
+*.exe
+*.pdb
+*_nbtest*
+*_mkico*
+manuf.txt
+manuf.raw
+oui.txt
+app-icon.png
+.vs/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
