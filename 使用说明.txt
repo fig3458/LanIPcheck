@@ -1,0 +1,5 @@
+# 使用说明
+
+见 README.md。
+
+单文件运行：编译后使用 `dist\portable\LanIpWatcher.exe`。
