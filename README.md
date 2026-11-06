@@ -1,4 +1,4 @@
-# LanIPcheck（局域网 IP 占用图）v2
+﻿# LanIPcheck（局域网 IP 占用图）v2
 
 Windows 单文件桌面工具：用格子热力图查看局域网哪些 IP 已被占用，并检测 IP 冲突。
 
@@ -11,6 +11,10 @@ Windows 单文件桌面工具：用格子热力图查看局域网哪些 IP 已�
 - **导出表格**：含「曾见MAC / 曾见名称」列
 - 定时扫描、开机启动、系统托盘
 - 兼容 Windows 7 SP1 ~ Windows 11
+
+## 下载
+
+到 [Releases](https://github.com/fig3458/LanIPcheck/releases) 下载 LanIpWatcher.exe。
 
 ## 运行
 
@@ -41,3 +45,7 @@ build.bat
 厂商 OUI 数据来源于 Wireshark manuf。
 
 本目录为相对原版 `LanIpWatcher` 的新版本（含冲突检测）。
+
+## 许可证
+
+[MIT](LICENSE)
